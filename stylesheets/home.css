@@ -2,11 +2,15 @@
 
 body {
 	font-family: 'Lato', sans-serif;	color: #34141F;
-	margin-left: 100px;
-	margin-right: 100px;
+	padding-left: 50px;
+	padding-right: 50px;
 	margin-top: 100px;
 	font-weight: 400;
 	font-size: 16px;	
+}
+
+#minibio {
+	margin-left: 50px;
 }
 
 h1 {
@@ -16,7 +20,13 @@ h1 {
 
 h4 {
 	font-size: 20px;
-	font-weight: 500;
+	font-weight: 700;
+}
+
+h5 {
+	font-size: 12px;
+	font-weight: 300;
+	color: rgb(175, 175, 175);
 }
 
 p {
