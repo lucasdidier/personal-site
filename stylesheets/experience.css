@@ -2,6 +2,12 @@
 	background-color: white;
 }
 
+#experience {
+	padding-top: 60px;
+	padding-bottom: 30px;
+	background-color: #33658A;
+}
+
 .card {
 	border-style: solid;
 	border-color: rgb(220, 220, 220);
@@ -11,6 +17,7 @@
 	margin-right: 15px;
 	margin-bottom: 16px;
 	min-height: 320px;
+	background-color: white;
 
 }
 
@@ -52,3 +59,4 @@ h4 {
   background-color: crimson;
   color: white;
 }
+
