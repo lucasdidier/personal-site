@@ -21,6 +21,11 @@ strong {
 }
 
 .fa {
+  color: #9C9999;
+  margin-right: 5px;
+}
+
+.fa:hover {
   color: #3F6487;
 }
 
@@ -66,6 +71,6 @@ p {
 }
 
 #reachout {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 
