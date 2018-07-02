@@ -55,7 +55,7 @@ strong {
 }
 
 .fa-check {
-  color: #4B86EF;
+  color: #38ada9;
   margin-right: 5px;
 }
 
@@ -65,7 +65,7 @@ strong {
 }
 
 .fa-twitter:hover, .fa-github:hover, .fa-linkedin:hover {
-  color: #3F6487;
+  color: #38ada9;
 }
 
 h1 {
@@ -115,7 +115,7 @@ p {
 }
 
 #reachout {
-  margin-bottom: 25px;
+  margin-bottom: 40px ;
 }
 
 .person-text {
