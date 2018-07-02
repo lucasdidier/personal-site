@@ -2,17 +2,11 @@
 	background-color: white;
 }
 
-.experience-title {
-	color: white;
-	margin-bottom: 25px;
-}
-
 #experience {
 	margin-top: 100px;
 	margin-bottom: 100px;
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background-color: #33658A;
 }
 
 #social {
@@ -24,7 +18,7 @@
 	border-style: solid;
 	border-color: rgb(220, 220, 220);
 	border-width: 0.5px;
-	border-radius: 3px;
+	border-radius: 5px;
 	padding: 20px;
 	margin-left: 10px;
 	margin-right: 10px;
